@@ -1,0 +1,231 @@
+{
+  "students": [
+    {
+      "name": "Абсамат",
+      "surname": "Медияр уулу",
+      "KPI": 90,
+      "KPIMonth": 95,
+      "video": "./video/absamatvideo.mp4",
+      "image1": "https://i.ibb.co/q7V1YzW/IMG-0346.jpg",
+      "image2": "02223334",
+      "id": 1,
+      "phone": "0222333444"
+    },
+    {
+      "name": "Адина",
+      "surname": "Усупова",
+      "KPI": 90,
+      "KPIMonth": 95,
+      "video": "./video/adina.mp4",
+      "image1": "https://i.ibb.co/3k60w2t/IMG-0339.jpg",
+      "image2": "0222333444",
+      "id": 2,
+      "phone": "0222333444"
+    },
+    {
+      "name": "Айзада",
+      "surname": "Сарыбаева",
+      "KPI": 92,
+      "KPIMonth": 98,
+      "video": "./video/aizada.mp4",
+      "image1": "https://i.ibb.co/h2J7HGZ/IMG-0333.jpg",
+      "image2": "0222333444",
+      "id": 3,
+      "phone": "0222333444"
+    },
+    {
+      "name": "Айзада",
+      "surname": "Туратбек кызы",
+      "KPI": 91,
+      "KPIMonth": 94,
+      "video": "./video/aizada2.mp4",
+      "image1": "https://i.ibb.co/HY1QBZd/IMG-0336.jpg",
+      "image2": "0222333444",
+      "id": 4,
+      "phone": "0222333444"
+    },
+    {
+      "name": "Актан",
+      "surname": "Болотбеков",
+      "KPI": 83,
+      "KPIMonth": 89,
+      "video": "./video/aktan.mp4",
+      "image1": "https://i.ibb.co/zFdPc02/IMG-0345.jpg",
+      "image2": "0222333444",
+      "id": 5,
+      "phone": "0222333444"
+    },
+    {
+      "name": "Алина",
+      "surname": "Джумадилова",
+      "KPI": 89,
+      "KPIMonth": 99,
+      "video": "./video/alina.mp4",
+      "image1": "https://i.ibb.co/wdQBShs/IMG-0337.jpg",
+      "image2": "0222333444",
+      "id": 6,
+      "phone": "0222333444"
+    },
+    {
+      "name": "Алсу",
+      "surname": "Нурланова",
+      "KPI": 78,
+      "KPIMonth": 89,
+      "video": "./video/benazir.mp4",
+      "image1": "https://i.ibb.co/2jckK1X/IMG-0340.jpg",
+      "image2": "0222333444",
+      "id": 7,
+      "phone": "0222333444"
+    },
+    {
+      "name": "Азим",
+      "surname": "Желденбаев",
+      "KPI": 95,
+      "KPIMonth": 98,
+      "video": "./video/azim-eldiyar.mp4",
+      "image1": "https://i.ibb.co/YpNQXLp/IMG-0343.jpg",
+      "image2": "0222333444",
+      "id": 8,
+      "phone": "0222333444"
+    },
+    {
+      "name": "Бекболсун",
+      "surname": "Абдыкадыров",
+      "KPI": 99,
+      "KPIMonth": 100,
+      "video": "./video/bekbolsun.mp4",
+      "image1": "https://i.ibb.co/1LvLfrb/IMG-0341.jpg",
+      "image2": "0222333444",
+      "id": 9,
+      "phone": "0222333444"
+    },
+    {
+      "name": "Чынара",
+      "surname": "Самарбекова",
+      "KPI": 99,
+      "KPIMonth": 100,
+      "video": "./video/chynara.mp4",
+      "image1": "https://i.ibb.co/6RB5Vpg/IMG-0334.jpg",
+      "image2": "0222333444",
+      "id": 10,
+      "phone": "0222333444"
+    },
+    {
+      "name": "Эльдияр",
+      "surname": "Каскеев",
+      "KPI": 90,
+      "KPIMonth": 96,
+      "video": "./video/azim-eldiyar.mp4",
+      "image1": "https://i.ibb.co/2gfFq7j/IMG-0344.jpg",
+      "image2": "0222333444",
+      "id": 11,
+      "phone": "0222333444"
+    },
+    {
+      "name": "Эрадил",
+      "surname": "Абасбеков",
+      "KPI": 100,
+      "KPIMonth": 100,
+      "video": "./video/eradil.mp4",
+      "image1": "https://i.ibb.co/pnjQPkn/IMG-0335.jpg",
+      "image2": "0222333444",
+      "id": 12,
+      "phone": "0777777777"
+    },
+    {
+      "name": "Эркин",
+      "surname": "Жусубалиев",
+      "KPI": 100,
+      "KPIMonth": 100,
+      "video": "./video/erkin.mp4",
+      "image1": "https://i.ibb.co/kxCw0gk/IMG-0347.jpg",
+      "image2": "0222333444",
+      "id": 13,
+      "phone": "0222333444"
+    },
+    {
+      "name": "Махабат",
+      "surname": "Абдисаттарова",
+      "KPI": 90,
+      "KPIMonth": 100,
+      "video": "./video/mahabat.mp4",
+      "image1": "https://i.ibb.co/zxG4TGf/IMG-0342.jpg",
+      "image2": "0222333444",
+      "id": 14,
+      "phone": "0222222222"
+    },
+    {
+      "name": "Мамед",
+      "surname": "Джафаров",
+      "KPI": 67,
+      "KPIMonth": 87,
+      "video": "./video/mamed.mp4",
+      "image1": "https://i.ibb.co/5GRrzpc/IMG-0349.jpg",
+      "image2": "0222333444",
+      "id": 15,
+      "phone": "011111111"
+    },
+    {
+      "name": "Улан",
+      "surname": "Мусалиев",
+      "KPI": 99,
+      "KPIMonth": 100,
+      "video": "./video/ulan.mp4",
+      "image1": "https://i.ibb.co/zFcd5Fz/IMG-0348.jpg",
+      "image2": "0222333444",
+      "id": 17,
+      "phone": "031221232313"
+    },
+    {
+      "name": "Беназир",
+      "surname": "Хакимова",
+      "KPI": 100,
+      "KPIMonth": 100,
+      "video": "./video/benazir.mp4",
+      "image1": "https://i.ibb.co/vHkkj8Q/IMG-0352.jpg",
+      "image2": "022233344",
+      "id": 19,
+      "phone": ""
+    },
+    {
+      "name": "qqq",
+      "surname": "",
+      "KPI": null,
+      "KPIMonth": 0,
+      "video": "",
+      "image1": "",
+      "image2": "",
+      "id": 21
+    },
+    {
+      "name": "Тахмина",
+      "surname": "Аманкожоева",
+      "KPI": 89,
+      "KPIMonth": 80,
+      "video": "./video/tahmina.mp4",
+      "image1": "https://i.ibb.co/7g7RD9r/IMG-0338.jpg",
+      "phone": "0222333444",
+      "id": 23
+    },
+    {
+      "name": "Улук-мырза",
+      "surname": "Осмонов",
+      "KPI": 90,
+      "KPIMonth": 92,
+      "video": "./video/uluk.mp4",
+      "image1": "https://i.ibb.co/19NLmbm/IMG-0350.jpg",
+      "phone": "0222333444",
+      "id": 24
+    },
+    {
+      "name": "Данияр",
+      "surname": "Абыкеев",
+      "KPI": 15,
+      "KPIMonth": 33,
+      "video": "",
+      "image1": "https://i.ibb.co/HhpFh0X/IMG-0354.jpg",
+      "phone": "0222333444",
+      "id": 25
+    }
+  ]
+}
